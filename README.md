@@ -70,6 +70,9 @@
       <a href="https://michu-sys.github.io/komp5/">- Zasilacz</a><br><br>
       <a href="https://michu-sys.github.io/komp6/">- Chłodzenie</a><br><br>
       <a href="https://michu-sys.github.io/komp7/">- Dysk HDD/SSD</a><br>
+      <br><br>
+      DLC:
+      <a href="https://michu-sys.github.io/komp8/"> Jak składać komputer</a><br>
     </div>
 
     <div id="content">
