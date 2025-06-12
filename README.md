@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+
 <html lang="pl">
 <head>
   <meta charset="utf-8">
@@ -62,7 +63,7 @@
     <div id="nav">
       Komponenty Komputerowe:
       <br><br>
-      <a href="https://michu-3301.github.io/proc2">- Procesor</a><br><br>
+      <a href="https://michu-sys.github.io/komp1/">- Procesor</a><br><br>
       <a href="https://michu-3301.github.io/P-G">- Płyta Główna</a><br><br>
       <a href="https://michu-3301.github.io/GPU">- Karta Graficzna</a><br><br>
       <a href="Pamięć Ram.html">- Pamięć Ram</a><br><br>
