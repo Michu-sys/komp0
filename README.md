@@ -77,20 +77,20 @@
       <p>
         Komputer to złożone urządzenie, które składa się z wielu współpracujących ze sobą komponentów. Do najważniejszych z nich należy procesor (CPU), który pełni rolę "mózgu" komputera, wykonując obliczenia i zarządzając działaniem systemu. Pamięć RAM umożliwia szybki dostęp do danych potrzebnych w danej chwili, a dysk twardy (HDD lub SSD) służy do trwałego przechowywania informacji. Płyta główna łączy wszystkie elementy i umożliwia ich komunikację. Karta graficzna (GPU) odpowiada za przetwarzanie grafiki, co jest kluczowe w grach i programach graficznych. Zasilacz dostarcza energii do wszystkich podzespołów, a obudowa chroni je i zapewnia odpowiednią wentylację. Wszystkie te elementy wspólnie tworzą sprawnie działający system.
       </p>
-
-      <div id="komp">
-        <img src="komp.jpg" alt="Zdjęcie komputera">
-      </div>
-      <h2>
+<p>
       <br>
       <a href="https://www.komputronik.pl/category/5805/czesci-pc.html"> Najlepsze części do komputera </a> <br />
-      
+      </p>
+      <div id="komp">
+        <img src="komp.jpg" alt="Zdjęcie komputera">
+      </div>  
     </div>
 
     <div id="ad">
       <img src="reklama.jpg" alt="Reklama">
     </div>
-
+ 
+   
     <div id="footer">
       Komponenty komputerowe - Michu 3301 &copy; Wszelkie prawa zastrzeżone
     </div>
