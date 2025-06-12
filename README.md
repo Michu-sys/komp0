@@ -86,6 +86,9 @@
       </p>
       <div id="komp">
         <img src="komp.jpg" alt="Zdjęcie komputera">
+
+      <br>
+      <a href="https://www.instant-gaming.com/pl/?_gl=1*387zx7*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw9anCBhAWEiwAqBJ-c93mzxu3V6MnLWO_E2qNqpGijwLDj40cJ-b9B9kslA0gQ505qrBAkBoC15MQAvD_BwE&gbraid=0AAAAADNzuvXoL5ZfeJvLy8dE7lA1_2MTN"><img scr="puł.png"></a><br>
       </div>  
     </div>
 
