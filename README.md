@@ -66,7 +66,7 @@
       <a href="https://michu-sys.github.io/komp1/">- Procesor</a><br><br>
       <a href="https://michu-sys.github.io/komp3/">- Płyta Główna</a><br><br>
       <a href="https://michu-sys.github.io/komp4/">- Karta Graficzna</a><br><br>
-      <a href="Pamięć Ram.html">- Pamięć Ram</a><br><br>
+      <a href="https://michu-sys.github.io/komp2/">- Pamięć Ram</a><br><br>
       <a href="Zasilacz.html">- Zasilacz</a><br><br>
       <a href="Chłodzenie.html">- Chłodzenie</a><br><br>
       <a href="Dysk.html">- Dysk HDD/SSD</a><br>
