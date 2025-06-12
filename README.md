@@ -67,9 +67,9 @@
       <a href="https://michu-sys.github.io/komp3/">- Płyta Główna</a><br><br>
       <a href="https://michu-sys.github.io/komp4/">- Karta Graficzna</a><br><br>
       <a href="https://michu-sys.github.io/komp2/">- Pamięć Ram</a><br><br>
-      <a href="Zasilacz.html">- Zasilacz</a><br><br>
-      <a href="Chłodzenie.html">- Chłodzenie</a><br><br>
-      <a href="Dysk.html">- Dysk HDD/SSD</a><br>
+      <a href="https://michu-sys.github.io/komp5/">- Zasilacz</a><br><br>
+      <a href="https://michu-sys.github.io/komp6/">- Chłodzenie</a><br><br>
+      <a href="https://michu-sys.github.io/komp7/">- Dysk HDD/SSD</a><br>
     </div>
 
     <div id="content">
@@ -81,6 +81,10 @@
       <div id="komp">
         <img src="komp.jpg" alt="Zdjęcie komputera">
       </div>
+      <h2>
+      <br>
+      <a href="https://www.komputronik.pl/category/5805/czesci-pc.html"> Najlepsze części do komputera </a> <br />
+      
     </div>
 
     <div id="ad">
